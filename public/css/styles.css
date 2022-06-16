@@ -1,0 +1,7 @@
+.circle {
+    height: 80px;
+    width: 80px;
+    background-color: rgba(15, 69, 190, 0.45);
+    border-radius: 50%;
+    display: inline-block;
+}
